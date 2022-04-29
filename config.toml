@@ -13,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Namita Khuntia"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://www.linkedin.com/in/namita-khuntia/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
@@ -21,24 +21,24 @@ googleAnalytics = ""  # add your tracking id
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
+    icon = "fab fa-linkedin fa-2x"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/namita-khuntia/"
   [[params.socialIcons]]
-    icon = "fas fa-envelope"
+    icon = "fas fa-envelope fa-2x"
     title = "E-mail"
-    url = "mailto:mail@example.com"
+    url = "mailto:namita@khuntia.me"
 
 [permalinks]
   "/" = "/:filename"
 
 [menu]
+  # [[menu.main]]
+  #   name = "About"
+  #   url = "/about"
+  #   weight = 1
   [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
-  [[menu.main]]
-    name = "Resume"
+    name = "Download Resume"
     url = "/resume.pdf"
     # 'pre' and 'post' hooks are available
     # here we use an icon from Bootstrap https://icons.getbootstrap.com/

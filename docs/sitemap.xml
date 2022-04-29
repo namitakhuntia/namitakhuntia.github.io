@@ -3,10 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://namita.khuntia.me/</loc>
-    <priority>0</priority>
   </url><url>
-    <loc>https://namita.khuntia.me/about/</loc>
-  </url><url>
-    <loc>https://namita.khuntia.me/contact/</loc>
+    <loc>https://namita.khuntia.me/</loc>
   </url>
 </urlset>
