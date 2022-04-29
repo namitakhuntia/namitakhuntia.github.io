@@ -1,5 +1,5 @@
 title = "Researcher"
-baseURL = "https://namita.khuntia.me/"
+baseURL = "https://namita.khuntia.me/about"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
