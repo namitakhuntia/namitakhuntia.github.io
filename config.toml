@@ -33,10 +33,10 @@ googleAnalytics = ""  # add your tracking id
   "/" = "/:filename"
 
 [menu]
-  # [[menu.main]]
-  #   name = "About"
-  #   url = "/about"
-  #   weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
   [[menu.main]]
     name = "Download Resume"
     url = "/resume.pdf"

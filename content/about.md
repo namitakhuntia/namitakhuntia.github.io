@@ -5,7 +5,7 @@ title = "About"
 ## About Me
 
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="../avatar.jpg" alt="avatar">}}
 
 Experienced professional with expertise in driving revenue growth in SAMENA. Over 8+ years of experience in developing innovative sales strategies, analyzing business markets and managing key partners. A collaborator and keen learner with high integrity. She is a critical thinker, proactive problem solver, reliable, passionate with high threshold to absorb pressure and has a strong work ethic.
 
@@ -67,6 +67,8 @@ Experienced professional with expertise in driving revenue growth in SAMENA. Ove
   - Worked as an industrial trainee getting trained in all the major departments like Front office, Food and Beverage outlets, Housekeeping, Kitchen, Bakery and Training department.
   - Awarded as ‘Exceptional Performer’ during Industrial Training in Radisson MBD, Noida.
 
+---
+
 ## Skills
 
 * Marketo
@@ -75,11 +77,15 @@ Experienced professional with expertise in driving revenue growth in SAMENA. Ove
 * Tableau
 * Excel
 
+---
+
 ## Education
 
 > B. Sc. in Hospitality and Hotel Administration  
 Institute of Hotel Management, Bangalore  
 (2010 - 2013)
+
+---
 
 ## Languages Known
 
