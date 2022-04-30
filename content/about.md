@@ -31,7 +31,7 @@ Experienced professional with expertise in driving revenue growth in SAMENA. Ove
     - Organizing & conducting webinars, forums, city meets about market trends for client engagement. 
  
     </br>**Strategic Initiatives:**
-    - Pivoted a VAT Project for Indian Clients for enabling seller success in markets like UK &Europe, which led to a double-digit growth in clients expanding to these markets.
+    - Pivoted a VAT Project for Indian Clients for enabling seller success in markets like UK & Europe, which led to a double-digit growth in clients expanding to these markets.
 
 ### <u>Expedia Group (August 2015 - July 2019) </u>
   * #### Market Associate - Global Market Management 
